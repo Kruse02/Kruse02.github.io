@@ -17,6 +17,14 @@ html {
   line-height: 1.15;
   -webkit-text-size-adjust: 100%;
 }
+.avatar{
+  border-radius: 50%;
+}
+
+.textcon{
+  background-color: rgb(63, 63, 63);
+  border-radius: 2em;
+}
 
 .menulink{
   color: black;
@@ -29,6 +37,7 @@ body {
 h1 {
   font-size: 3em;
   margin: 0.67em 0;
+  color: white;
 
 }
 
@@ -2896,6 +2905,8 @@ th,
 td {
   margin: 0;
   padding: 0;
+  color: white;
+  font-family: cursive;
 }
 
 p {
@@ -3163,6 +3174,8 @@ ul.no-bullet, ol.no-bullet {
 
 .text-center {
   text-align: center;
+  color: white;
+  font-family: cursive;
 }
 
 .text-justify {
