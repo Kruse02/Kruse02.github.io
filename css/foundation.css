@@ -2906,7 +2906,7 @@ td {
   margin: 0;
   padding: 0;
   color: white;
-  font-family: cursive;
+  font-family: Roboto;
 }
 
 p {
@@ -3175,7 +3175,7 @@ ul.no-bullet, ol.no-bullet {
 .text-center {
   text-align: center;
   color: white;
-  font-family: cursive;
+  font-family: Roboto;
 }
 
 .text-justify {
